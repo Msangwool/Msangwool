@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p>
   &nbsp;안녕하세요 문상우입니다, Software Engineer를 향해 걸어가는 개발자입니다.🚀<br/><br/>
 사소한 일상에서 즐거움을 찾는 것을 즐깁니다.🌅<br/>
-또한 무언가를 분석하여 만들고 개선하는 것을 좋아합니다.<br/>
+또 무언가를 분석하여 만들고 개선하는 것을 좋아합니다.<br/>
 </p>
 
 <br>
